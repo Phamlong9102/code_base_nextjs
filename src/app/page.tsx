@@ -4,7 +4,7 @@ import { FC } from "react";
 import { styled } from "styled-components";
 
 const Home: FC = () => {
-  return <StyledHome>sdjfbdshk</StyledHome>;
+  return <StyledHome>Home</StyledHome>;
 };
 
 export default Home;
